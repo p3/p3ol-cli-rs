@@ -1,0 +1,10 @@
+[package]
+name = "p3ol-cli-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ascii_converter = "0.3.0"
+fancy-regex = "0.11.0"
+regex = "1.9.1"
+to-binary = "0.4.0"
